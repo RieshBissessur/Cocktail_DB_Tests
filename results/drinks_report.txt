@@ -1,0 +1,2186 @@
+{
+    "252": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "747": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "English Highball": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cherry Electric Lemonade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolut Summertime": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Rickey": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Banana Milk Shake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Nuked Hot Chocolate": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Boxcar": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sherry Eggnog": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "'57 Chevy with a White License Plate": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "After sex": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jackhammer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange Scented Hot Chocolate": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Scotch Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange Crush": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Black & Tan": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Casino": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arise My Love": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sex on the Beach": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Abbey Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gideon's Green Dinosaur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lemon Shot": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bluebird": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Squirt": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Barracuda": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arctic Fish": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Artillery": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Waikiki Beachcomber": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Casino Royale": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Snakebite and Black": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Toddy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "ACID": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pink Gin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A. J.": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Miami Vice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Angel Face": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Flander's Flake-Out": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tommy's Margarita": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bruised Heart": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Thai Iced Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Daisy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Singapore Sling": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Frisco Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Banana Strawberry Shake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "California Root Beer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kool First Aid": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arizona Twister": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Butter Baby": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Midnight Mint": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Dirty Nipple": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pink Lady": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Black Russian": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lemon Drop": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple Cider Punch #1": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Blue Margarita": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coke and Drops": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brandy Alexander": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Quarter Deck Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bumble Bee #1": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Rum Cobbler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jello shots": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Whisky Mac": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tom Collins": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Strawberry Lemonade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Americano": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Monkey Wrench": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Boston Sidecar": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Long vodka": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "410 Gone": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Radioactive Long Island Iced Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Dubonnet Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Buccaneer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Manhattan": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jelly Bean": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pineapple Gingerale Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Almond Joy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Malibu Twister": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Hawaiian Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "French Connection": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg Nog #4": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jack's Vanilla Coke": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Quentin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Herbal flame": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Planter's Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Hot Creamy Bush": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Poppy Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ice Pick #1": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Cherry Rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange Whip": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg-Nog - Classic Cooked": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zippy's Revenge": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vesper": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bellini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Blue Lagoon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Sunset": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate Monkey": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Smash": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zoksel": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "French \"75\"": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "A.D.M. (After Dinner Mint)": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lassi - A South Indian Drink": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sweet Tooth": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Strawberry Daiquiri": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arizona Antifreeze": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kurant Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Port Wine Flip": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absinthe #2": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brain Fart": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Owen's Grandmother's Revenge": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zenmeister": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bellini Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Affair": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Mist": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Old Fashioned": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Boomerang": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Auburn Headbanger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mississippi Planters Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Toddy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Afterglow": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lassi - Sweet": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vodka Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Texas Sling": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jitterbug": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Alaska Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Spritz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Old-fashioned": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg Cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zimadori Zinger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Surf City Lifesaver": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zorro": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple Berry Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Spanish chocolate": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Sweet & Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolut limousine": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pink Panty Pulldowns": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate Black Russian": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "After Supper Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "John Collins": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jam Donut": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "New York Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Atlantic Sun": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Yellow Bird": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Strawberry Margarita": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sloe Gin Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zambeer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Champagne Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Salty Dog": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mulled Wine": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Runner": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Screaming Orgasm": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bloody Maria": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Popped cherry": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Banana Daiquiri": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "City Slicker": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Midnight Manx": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brainteaser": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cuba Libra": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mai Tai": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Dragonfly": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Blackthorn": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gluehwein": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Melya": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Moranguito": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Screwdriver": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Caipirissima": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Van Vleet": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Daiquiri": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fruit Shake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "3 Wise Men": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Long Island Iced Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Aviation": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Alice in Wonderland": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sherry Flip": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Blind Russian": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Godfather": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Royal Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brandon and Will's Coke Float": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Banana Strawberry Shake Daiquiri-type": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Dirty Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vesuvio": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A Night In Old Mandalay": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Frozen Daiquiri": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Whitecap Margarita": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tequila Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "The Evil Blue Thing": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zima Blaster": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Classic Old-Fashioned": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Frozen Pineapple Daiquiri": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Wine Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "After Dinner Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Adam": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Castillian Hot Chocolate": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Afternoon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Porto flip": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jewel Of The Nile": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Iced Coffee Fillip": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto And Cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Smut": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Applejack": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Boston Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Dark and Stormy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Godchild": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tequila Surprise": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fruit Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Golden dream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "151 Florida Bushwacker": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Paradise": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fruit Flip-Flop": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Spiking coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "AT&T": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Boozy Snickers Milkshake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Flying Dutchman": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Abbey Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grim Reaper": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "White Russian": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grape lemon pineapple Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lady Love Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple Karate": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "24k nightmare": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Victor": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mojito #3": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Freddy Kruger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sangria #1": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Scotch Cobbler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kiss me Quick": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lone Tree Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Abilene": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apricot Lady": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Dark Caipirinha": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Negroni": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Just a Moonmint": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Baby Guinness": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Green Goblin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Alice Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A Gilligan's Island": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bermuda Highball": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Turf Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vodka And Tonic": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Horse's Neck": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grand Blue": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Strawberry Shivers": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apello": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Almeria": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bruce's Puce": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rail Splitter": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Whiskey Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brandy Flip": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "50/50": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kioki Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A Splash of Nash": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Downshift": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cosmopolitan Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ace": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pink Penocha": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Nutty Irishman": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jack Rose Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Hemingway Special": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Irish Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Havana Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Adam & Eve": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Baby Eskimo": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tuxedo Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "69 Special": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Scooter": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orgasm": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Long Island Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mocha-Berry": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zizi Coin-coin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Adios Amigos Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lone Tree Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin And Tonic": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mudslinger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tomato Tang": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lassi - Mango": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tequila Sunrise": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Shake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kool-Aid Slammer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "London Town": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mary Pickford": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arthur Tompkins": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zorbatini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Foxy Lady": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Midnight Cowboy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Frappé": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cuba Libre": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Addison Special": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Imperial Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sunny Holiday Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Alexander": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "San Francisco": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kiwi Lemon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "French 75": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Dry Rob Roy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple Grande": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grass Skirt": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Girl From Ipanema": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "After Five": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Allies Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Happy Skipper": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Loch Lomond": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Avalon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arizona Stingers": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate Milk": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lemouroudji": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mojito": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Irish Curdling Cow": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tennesee Mud": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Snake Bite (UK)": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Damned if you do": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Harvey Wallbanger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Irish Russian": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Space Odyssey": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sea breeze": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Almond Chocolate Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sidecar": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "H.D.": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "White Lady": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Quaker's Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bob Marley": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lassi Raita": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "3-Mile Long Island Iced Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grasshopper": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coffee-Vodka": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sangria - The World's Best": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Tequila Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Archbishop": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ipamena": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A1": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Caribbean Orange Liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Karsk": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cosmopolitan": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "National Aquarium": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tia-Maria": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Radler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Adam Sunrise": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coffee Liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zipperhead": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Darkwood Sling": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lord And Lady": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Drinking Chocolate": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cranberry Cordial": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Flaming Lamborghini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Addington": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Victory Collins": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fuzzy Asshole": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brandy Cobbler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kill the cold Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vodka Russian": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolutly Screwed Up": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Belgian Blue": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Thai Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kentucky B And B": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kir Royale": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Shanghai Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "New York Lemonade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Queen Bee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Royal Bitch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Sunrise": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Stone Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "110 in the shade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate Beverage": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Flaming Dr. Pepper": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kentucky Colonel": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Irish Spring": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Shark Attack": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A Piece of Ass": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bloody Mary": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Danbooka": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Creme de Menthe": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Milk Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Veteran": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Stinger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Hot Chocolate to Die for": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fahrenheit 5000": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "ABC": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Red Snapper": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Shot-gun": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chicago Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Raspberry Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "155 Belmont": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "1-900-FUK-MEUP": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Bailey's Dream Shake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kamikaze": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Black and Brown": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Quick F**K": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gentleman's Club": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Quick-sand": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Irish Cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Port Wine Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolut Sex": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bubble Gum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Clover Club": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jamaica Kiss": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sol Y Sombra": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Stone Sour #3": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Spiced Peach Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Blue Mountain": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bacardi Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "B-52": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolutely Fabulous": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cafe Savoy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Royal Gin Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cranberry Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Diesel": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orangeade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange Push-up": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brandy Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Moscow Mule": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Martinez Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ruby Tuesday": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg Nog - Healthy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bible Belt": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kiwi Papaya Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pisco Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Highland Fling Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Talos Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pina Colada": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Campari Beer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Swizzle": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Russian Spring Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gagliardo": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Imperial Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Japanese Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Banana Cantaloupe Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Avalanche": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cream Soda": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Aloha Fruit punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Espresso Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple Pie with A Crust": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Swedish Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Alfie Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Autodafé": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sazerac": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mother's Milk": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Limona Corona": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Turkeyball": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Rose": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rusty Nail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "English Rose Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Artillery Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Queen Elizabeth": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "501 Blue": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Clove Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A midsummernight dream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Frozen Mint Daiquiri": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Godmother": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Army special": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Port And Starboard": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin Sling": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Iced Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rose": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Acapulco": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kool-Aid Shot": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Arctic Mouthwash": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Derby": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bramble": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "French Martini": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Adonis Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lunch Box": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Monkey Gland": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mango Orange Smoothie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kir": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Holloween Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Addison": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rum Screwdriver": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolut Stress #2": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sidecar Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Microwave Hot Cocoa": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lassi Khara": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mimosa": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bourbon Sling": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pysch Vitamin Light": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange Oasis": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Angelica Liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Big Red": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ziemes Martini Apfelsaft": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bora Bora": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolut Evergreen": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Masala Chai": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Homemade Kahlua": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Black Forest Shake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "California Lemonade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Caribbean Boilermaker": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Queen Charlotte": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Thriller": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Royal Flush": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Applecar": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Scottish Highland Liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apricot punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Aztec Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "B-53": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Citrus Coke": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bleeding Surgeon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sweet Bananas": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Balmoral": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Texas Rattlesnake": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vampiro": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Snowball": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vermouth Cassis": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Allegheny": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Amaretto Stone Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bourbon Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grizzly Bear": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Thai Iced Tea": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Margarita": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Valencia Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brave Bull Shooter": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A True Amaretto Sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bobby Burns Cocktail": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vodka Fizz": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sweet Sangria": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jamaican Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "9 1/2 Weeks": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zinger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absolutely Cranberry Smash": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Yoghurt Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Affinity": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A Day at the Beach": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Flying Scotchman": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate Drink": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "A Furlong Too Late": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Algonquin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Berry Deadly": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Stinger": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Alabama Slammer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Between The Sheets": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Caipirinha": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "GG": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Adam Bomb": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Atomic Lokade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Duchamp's Punch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Oreo Mudslide": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Limeade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Wine Cooler": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple Slammer": {
+        "has_result": true,
+        "missing_fields": 0
+    }
+}

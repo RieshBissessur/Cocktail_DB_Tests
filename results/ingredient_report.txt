@@ -1,0 +1,1342 @@
+{
+    "Raspberry syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Pisco": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ginger ale": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Apricot Brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "demerara Sugar": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Añejo rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fruit punch": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Salt": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jack Daniels": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coca-Cola": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pineapple Syrup": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Brandy": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lime vodka": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cherry": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Spiced rum": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Whipped cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Caramel coloring": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Green Chartreuse": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Blueberry schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Angostura Bitters": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "St. Germain": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vanilla Ice-Cream": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Peach Vodka": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lemonade": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ginger Beer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cantaloupe": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Irish whiskey": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Grand Marnier": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cranberry juice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Frangelico": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Peach schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fruit": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Green Creme de Menthe": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Marjoram leaves": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Strawberry liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Baileys irish cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fresca": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Peach brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Allspice": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Bitters": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Grenadine": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Zima": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Advocaat": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tia maria": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Whipping cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kahlua": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Almond flavoring": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "White Rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Erin Cream": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Limeade": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Kiwi": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Daiquiri mix": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Dark Creme de Cacao": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Southern Comfort": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Creme de Cassis": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Benedictine": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Wormwood": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Beer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Club soda": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Vanilla vodka": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Everclear": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Galliano": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Ice": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Anisette": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Mint syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "7-Up": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chocolate liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Hot Damn": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Curacao": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sirup of roses": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Passion fruit juice": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Dark rum": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Papaya": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Fresh Lemon Juice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Goldschlager": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grapefruit juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "caramel sauce": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cranberry vodka": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Mini-snickers bars": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fresh Lime Juice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Vermouth": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tomato Juice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Light cream": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Maraschino cherry": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Creme de Cacao": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Orange spiral": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sprite": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cranberries": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lime juice cordial": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Ale": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coconut rum": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Coriander": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Orange bitters": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Peppermint extract": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Orange": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bourbon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Orange Juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Pineapple": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Schweppes Russchian": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cream of coconut": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Ouzo": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Creme de Banane": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Amaretto": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cloves": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Agave syrup": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lime peel": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Hot chocolate": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Guinness stout": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cocoa powder": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Pepper": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Pisang Ambon": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Triple Sec": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "White rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coconut syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Fennel seeds": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Cherry brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "White Creme de Menthe": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lemon peel": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Pineapple juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cherry Grenadine": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Ginger": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Orgeat syrup": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Asafoetida": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Cornstarch": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Blackberry brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Dr. Pepper": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Kiwi liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lemon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lager": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Kummel": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Peach Bitters": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cream": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Milk": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Powdered sugar": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Port": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cayenne pepper": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Yellow Chartreuse": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Maraschino liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sour mix": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Soda water": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Honey": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Corn syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Crown Royal": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Red wine": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Corona": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Peppermint schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Johnnie Walker": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cider": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pepsi Cola": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Glycerine": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Butter": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Oreo cookie": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "lemon juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Celery salt": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Apple juice": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Dry Vermouth": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vanilla extract": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Absolut Peppar": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Chambord raspberry liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vanilla": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Orange peel": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Black pepper": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Chocolate syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Egg yolk": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Absolut Citron": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Raspberry vodka": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Champagne": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Mango": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Wild Turkey": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Pineapple Juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Coffee": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Absinthe": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apple cider": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Brown sugar": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Sarsaparilla": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Egg Yolk": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Triple sec": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tabasco sauce": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "151 proof rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Strawberries": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Firewater": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Sugar syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Aquavit": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Cointreau": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Condensed milk": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lemon juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Aperol": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Ricard": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lillet Blanc": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "pineapple juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Orange Curacao": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "lemon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Whisky": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cumin seed": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Anise": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "chocolate sauce": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Ginger beer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bacardi Limon": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Strawberry schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Angostura bitters": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grapes": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Godiva liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lime": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Butterscotch schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg white": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Heavy cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Half-and-half": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Gin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Blended whiskey": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Coconut milk": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sambuca": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jim Beam": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Creme de Mure": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Nutmeg": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Cranberry Juice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Whipped Cream": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Scotch": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lemon-lime soda": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Banana": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Peachtree schnapps": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Olive Brine": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coffee liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cherry liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Dark Rum": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Maple syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Jello": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Carbonated soft drink": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Carrot": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Angelica root": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Grapefruit Juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Gold tequila": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Peychaud bitters": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Peach nectar": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Pink lemonade": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Banana liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Grape soda": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Wine": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Jägermeister": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Sugar Syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lime juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Light rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tequila": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cardamom": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Blackcurrant cordial": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Chocolate ice-cream": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Absolut Vodka": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Coconut liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Berries": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Candy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Lemon Juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Maui": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Lime Juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Grape juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Water": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Vodka": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bitter lemon": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Blackcurrant squash": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Root beer": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tea": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Pina colada mix": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Apfelkorn": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Food coloring": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Rye whiskey": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Chocolate milk": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cachaca": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Rumple Minze": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Dubonnet Rouge": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Mountain Dew": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Mint": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Melon liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sloe gin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cherries": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Lemon vodka": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Olive": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Passion fruit syrup": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Tennessee whiskey": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Vanilla ice-cream": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Sweet and sour": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "maraschino liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Bailey's irish cream": {
+        "has_result": false,
+        "missing_fields": 0
+    },
+    "Cognac": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Black Sambuca": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Iced tea": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "orange juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Guava juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Campari": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Apple brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Irish cream": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sherbet": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Kool-Aid": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Blue Curacao": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Fruit juice": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Malibu rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Tomato juice": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Yoghurt": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Sherry": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Egg White": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Rum": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Cherry Heering": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Yukon Jack": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Grain alcohol": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Cinnamon": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Tonic water": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Midori melon liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Worcestershire sauce": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Apricot": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Apricot brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Raspberry Liqueur": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Tropicana": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sugar": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Kirschwasser": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Drambuie": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Lavender": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "gin": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Prosecco": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Soda Water": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Whiskey": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Surge": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Maraschino Liqueur": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Anis": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Absolut Kurant": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Licorice root": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Coffee brandy": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Agave Syrup": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Carbonated water": {
+        "has_result": true,
+        "missing_fields": 1
+    },
+    "Sweet Vermouth": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Almond": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Marshmallows": {
+        "has_result": true,
+        "missing_fields": 2
+    },
+    "Applejack": {
+        "has_result": true,
+        "missing_fields": 0
+    },
+    "Espresso": {
+        "has_result": true,
+        "missing_fields": 2
+    }
+}
