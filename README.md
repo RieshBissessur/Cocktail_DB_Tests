@@ -1,3 +1,5 @@
+# Cocktail DB Tests
+
 This is dependant on RUST being installed
 
 Rust can be installed by following these instructions:
@@ -17,23 +19,26 @@ Or on Mac OS X using this curl command:
  
   - ```  cargo test ```
 
-  <br>
+<br>
+
+### Response requirements for all tests
+- Should return a 200 response status
+- Should return a valid Json
+
+<br>
 
 ### Functional Ingredients Tests
 1. Perform a test with known ingredient names that is alcoholic
-    - Should return a 200 status for this API call
     - Should return all ingredient fields with a value for abv
     - eg. Vodka or Brandy
     - Test will fail if any ingredient field is null as types are strings and not nullable
 
 2. Perform a test with known ingredient names that is non-alcoholic
-    - Should return a 200 status for this API call
     - Should return all ingredient fields with null abv
     - eg. Lemon or Cream
     - Test will fail if any ingredient field is null as types are strings and not nullable
 
 3. Perform a test with the first few letters of an ingredient
-    - Should return a 200 status for this API call
     - Should return the same ingredient fields for the full searched ingredient 
     - eg. Vod or Cr
     - Test will fail if any ingredient field is null as types are strings and not nullable
@@ -44,28 +49,23 @@ Or on Mac OS X using this curl command:
     - Test will fail if any ingredient field is null as types are strings and not nullable
 
 5. Perform a test that ensure the same response for case no sensitivity in ingredients names
-    - Should return a 200 status for this API call
     - Should the same response irrespective of the case
     - eg. Vodka and vodka and vOdKa
 
 ### Non-Functional Ingredients Tests
 6. Test the response time for an ingredient search
-    - Should return a 200 status for this API call
     - Should have response time of less than a second
 
 7. Test for fuzzy searching for a an ingredient search
-    - Should return a 200 status for this API call
     - Should give the correct response for an ingredient name with a spelling error
     - eg. vdoka
 
 ### Functional Drink Tests
 8. Perform a test with known drink names
-    - Should return a 200 status for this API call
     - Should return a valid drinks schema
     - eg. Negroni or Mojito
 
 9. Perform a test with the first few letters of an cocktail
-    - Should return a 200 status for this API call
     - Should return the same drink schema for the full searched ingredient 
     - eg. Ne or Moj
 
@@ -74,21 +74,32 @@ Or on Mac OS X using this curl command:
     - eg. rdj
 
 11. Perform a test that ensure the same response for case insensitivity of drinks
-    - Should return a 200 status for this API call
     - Should the same response irrespective of the case
     - eg. Mojito and mojito and mOjItO
 
 ### Non-Functional Drink Tests
 12. Test the response time for a search a drink
-    - Should return a 200 status for this API call
     - Should have response time of less than a second
 
 13. Test for fuzzy searching for a an drink search
-    - Should return a 200 status for this API call
     - Should give the correct response for an drink name with a spelling error
     - eg. magarita
 
 <br>
+
+### Additional Tests
+#### Load and stress testing for the server.
+- A tool like K6 can be used to send several thousand requests to the server per second and see how many are not successful or dropped. This tool can also be used to test the server with a sustained load, by giving it a certain number of requests per second for a 10 minutes for example.
+
+<br>
+
+ #### Security testing
+ - Instead of using providing a name for the ingredient or cocktail, we can try put malicious PHP or SQL code and see if this is handled correctly or alternatively add a string that is a million characters long and see if that has any effect on the server response.
+
+ <br>
+
+ ### Testing variations
+ - Different test cases can be made with the unit tests above using different input data for each test from which was can acquire more data to get more representative testing results.
 
 # Test Reports
 
